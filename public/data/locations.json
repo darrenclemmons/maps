@@ -1,0 +1,108 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "MEVLİD-İ HALİL CAMİİ HAZİRESİ",
+        "latitude": 37.146264,
+        "longitude": 38.786106,
+        "tooltip": "Mevlid-i Halil Camii Haziresi, Şanlıurfa ili, Eyyübiye ilçesi, Göl Mahallesi’nde, Mevlid-i Halil Camisi’nin güneyinde yer almaktadır. Doğu- batı yönünde uzanan hazire alanında yaklaşık 200 adet mezar bulunmaktadır. Mezarlar bu bölgeye ait nahit taşından yapılmıştır...",
+        "category": "mezarlik",
+        "image1": "/img/01/01_01.jpg",
+        "image2": "/img/01/01_02.jpg"
+      },
+      {
+        "id": 2,
+        "name": "BEDİÜZZAMAN AİLE MEZARLIĞI",
+        "latitude": 37.156834,
+        "longitude": 38.784439,
+        "tooltip": "Bediüzzaman Aile Mezarlığı, Şanlıurfa ili, Eyyübiye ilçesi, Kadıoğlu Mahallesi Tılfındır Mevkii’nde, Hızmalı Köprüsü’nün yaklaşık 400m güneyinde yer almaktadır. Mezarlığa giriş batı yönündeki kapıdan sağlanmaktadır...",
+        "category": "mezarlik",
+        "image1": "/img/02/02_01.jpg",
+        "image2": "/img/02/02_02.jpg"
+      },
+      {
+        "id": 3,
+        "name": "ŞANLIURFA KALESİ GÜNEY ETEĞİ NEKROPOLÜ",
+        "latitude": 37.144833,
+        "longitude": 38.783815,
+        "tooltip": "Şanlıurfa Kalesi Güney Eteği Nekropolü, Şanlıurfa ili, Eyyübiye ilçesi, Yakubiye Mahallesi’nde yer almaktadır. Eski adıyla Kale Arkası ya da Seyirtepe olarak bilinen Mevkii’de, Harran Kapı Caddesi’nin kuzeyindeki kayalık rekreasyon arazisini kapsamaktadır...",
+        "category": "mezarlik",
+        "image1": "/img/03/03_01.jpg",
+        "image2": "/img/03/03_02.jpg"
+      },
+      {
+        "id": 4,
+        "name": "YAKUBİYE MAHALLESİ KOMPLEKS KAYA MEZARI",
+        "latitude": 37.144512,
+        "longitude": 38.780762,
+        "tooltip": "Yakubiye Kompleks Kaya Mezarı, Şanlıurfa ili, Eyyübiye ilçesi, Yakubiye Mahallesi’nde yer almaktadır. Haran kapı Caddesi’nin kuzeyindeki, Şanlıurfa Kalesi’nin güney eteklerinde yer alan kayalık alanda bulunmaktadır. Kaya mezarı, dromoslu bir ön girişe sahip olup iki odalıdır...",
+        "category": "mezarlik",
+        "image1": "/img/04/04_01.jpg",
+        "image2": "/img/04/04_02.jpg"
+      },
+      {
+        "id": 5,
+        "name": "EYYÜBİYE MAHALLESİ (3127. SOKAK) 1 NO'LU KAYA MEZAR",
+        "latitude": 37.14302,
+        "longitude": 38.7847096,
+        "tooltip": "Eyyübiye Mahallesi (3127. Sokak) 1 No’lu Kaya Mezarı, Şanlıurfa ili, Eyyübiye ilçesi, Eyyübiye Mahallesi’nin 3127. Sokak, No. 2 adresindeki evin avlusunda bulunmaktadır. Avlunun kuzeydoğu bölümünde yer alan kaya mezarının girişi, kuzey yöndedir...",
+        "category": "mezarlik",
+        "image1": "/img/05/05_01.jpg",
+        "image2": "/img/05/05_02.jpg"
+      },
+      {
+        "id": 6,
+        "name": "FIRFIRLI CAMİİ (KUTSAL HAVARİLER KİLİSESİ)",
+        "latitude": 37.152639,
+        "longitude": 38.7859,
+        "tooltip": "Fırfırlı Camii, Şanlıurfa ili, Eyyübiye ilçesi, Yeni Mahallesi sınırları içerisinde yer almaktadır. Halk arasında Fırfırlı Kilise olarak anılan yapı Ermeni Protestan kilisesi olup, Oniki Havari Kilisesi olarak da bilinmektedir...",
+        "category": "cami",
+        "image1": "/img/06/06_01.jpg",
+        "image2": "/img/06/06_02.jpg"
+      },
+      {
+        "id": 7,
+        "name": "1204. SOKAK SU ANITI",
+        "latitude": 37.147984,
+        "longitude": 38.791260,
+        "tooltip": "1204 Sokak Su Anıtı, Şanlıurfa ili, Eyyübiye ilçesi, Pınarbaşı Mahallesi’nde yer almaktadır. Su Anıtına ait bir kitabe bulunmadığı için inşa tarihi bilinmemektedir...",
+        "category": "anit",
+        "image1": "/img/07/07_01.jpg",
+        "image2": "/img/07/07_02.jpg"
+      },
+      {
+        "id": 8,
+        "name": "HANEHAN BUTİK OTEL",
+        "latitude": 37.150070,
+        "longitude": 38.791563,
+        "tooltip": "Hanehan Butik Otel, Şanlıurfa ili, Eyyübiye ilçesi, Kurtuluş Mahallesi’nde, Mevlevihane Camii’nin yaklaşık 100m kuzeydoğusunda yer almaktadır. Yapıya giriş kuzeyden olup, kapı yuvarlak kemerli, 1.80m yüksekliğinde, 1m genişliğindedir...",
+        "category": "anit",
+        "image1": "/img/08/08_01.jpg",
+        "image2": "/img/08/08_02.jpg"
+      },
+      {
+        "id": 9,
+        "name": "ŞEYH MES-UD ZAVİYESİ- TÜRBESİ",
+        "latitude": 37.140131,
+        "longitude": 38.782523,
+        "tooltip": "Şeyh Mes’ud Zaviyesi, Şanlıurfa ili, Eyyübiye ilçesi, Şıhmaksut Mahallesi’nde, 3243. Sokak, 1 numarada yer almaktadır. Müftülük kitabesi üzerinde 1183 tarihi yazılıdır. Türbe asimetrik bir plan şeması yansıtmakta, türbeye giriş batı yönden olup, 2.10m yüksekliğinde, 1.25m genişliğinde dikdörtgen formlu, demir kapılıdır...",
+        "category": "anit",
+        "image1": "/img/09/09_01.jpg",
+        "image2": "/img/09/09_02.jpg"
+      }
+    ],
+    "mapSettings": {
+      "defaultCenter": {
+        "lat": 37.144606,
+        "lng": 38.782519
+      },
+      "defaultZoom": 16,
+      "styles": {
+        "marker": {
+          "mezarlik": "#FFFFFF",
+          "cami": "#00FF00",
+          "anit": "#0000FF"
+        }
+      }
+    }
+  }
